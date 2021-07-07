@@ -1,5 +1,5 @@
 <h1 align="left">Hi 🖐, I'm le-xot</h1>
-<h3 align="left">A lazy developer from Russia, Ufa</h3>
+<h3 align="left">A ResidentSleeper developer from Russia, Ufa</h3>
 
 <ul>
 <li>🌱 I’m currently learning <b>JavaScript</b></li>

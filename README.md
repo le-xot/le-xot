@@ -1,11 +1,12 @@
 <h1 align="left">Hi 🖐, I'm le-xot</h1>
 <h3 align="left">A lazy developer from Russia, Ufa</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 📫 How to reach me **le-xot@yandex.ru**
-
-- 🎥 Here is my Twitch **twitch.tv/le_xot**
+<ul>
+<li>🌱 I’m currently learning <b>JavaScript</b></li>
+<li>📫 How to reach me <b>le-xot@yandex.ru</b></li>
+<li>🎥 Here is my Twitch <b><a href="https://www.twitch.tv/le_xot" target="_blank">twitch.tv/le_xot
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/69/default/dark/1.0" alt="BloodTrail" width="24" height="17"/> </a></b> </li>
+</ul>
 
 
 <h3 align="left">🛠 Languages and Tools:</h3>

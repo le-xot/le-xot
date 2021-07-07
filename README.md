@@ -33,5 +33,5 @@
 
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-xot&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="le-xot" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-xot&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="le-xot" /></p>
 

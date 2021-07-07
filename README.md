@@ -1,5 +1,5 @@
 <h1 align="left">Hi 🖐, I'm le-xot</h1>
-<h3 align="left">A ResidentSleeper developer from Russia, Ufa</h3>
+<h3 align="left">A developer from Russia, Ufa</h3>
 
 <ul>
 <li>🌱 I’m currently learning <b>JavaScript</b></li>
@@ -34,5 +34,6 @@
 
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-xot&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="le-xot" /></p>
+<h3 align="left">📈 GitHub Stats:</h3>
+<p><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-xot&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
 

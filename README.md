@@ -3,7 +3,7 @@
 
 <ul>
 <li>🌱 I’m currently learning <b>JavaScript</b></li>
-<li>📫 How to reach me <b>le-xot@yandex.ru</b></li>
+<li>📫 How to reach me <b>lexot.dev@gmail.com</b></li>
 <li>🎥 Here is my Twitch <b><a href="https://www.twitch.tv/le_xot" target="_blank">twitch.tv/le_xot
 <img src="https://static-cdn.jtvnw.net/emoticons/v2/69/default/dark/1.0" alt="BloodTrail" width="24" height="17"/> </a></b> </li>
 </ul>

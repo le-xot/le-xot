@@ -4,7 +4,6 @@
 <ul>
 <li>🌱 I’m currently learning <b>JavaScript</b></li>
 <li>📫 How to reach me -> <b>lexot.dev@gmail.com</b></li>
-<li>🎥 Here is my Twitch channel -> <b><a href="https://www.twitch.tv/le_xot" target="_blank">twitch.tv/le_xot</a></b></li>
 </ul>
 
 <h3 align="left">🛠 Languages and Tools:</h3>

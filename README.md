@@ -1,5 +1,5 @@
-<h1 align="left">Hi 🖐, I'm le-xot </h1>
-<h3 align="left">A developer from Russia, Ufa</h3>
+<h1>Hi 🖐, I'm le-xot </h1>
+<h3>A developer from Russia, Ufa</h3>
 
 <ul>
 <li>🌱 I’m currently learning <b>Express</b> and <b>TypeScript</b></li>

@@ -45,5 +45,5 @@
 <p>
 <div align="left">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=le-xot&count_private=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea&hide_rank=true&include_all_commits=true&hide_title=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-xot&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea&title_color=adbac7&hide_title=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-xot&count_private=true&&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea&title_color=adbac7&hide_title=true" />
 </div>

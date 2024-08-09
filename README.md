@@ -24,6 +24,9 @@
 <a href="https://expressjs.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
+<a href="https://graphql.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="typescript" width="40" height="40"/> </a> 
+
 <a href="https://react.dev" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
@@ -42,8 +45,7 @@
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-<a href="https://www.photoshop.com/en" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</p>
 <h3 align="left">📈 GitHub Stats:</h3>
 <p>
 <div align="left">

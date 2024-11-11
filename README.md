@@ -2,7 +2,6 @@
 <h3>A developer from Russia, Ufa</h3>
 
 <ul>
-<li>🌱 I’m currently learning <b>Express</b> and <b>TypeScript</b></li>
 <li>📫 How to reach me -> <b>lexot.dev@gmail.com</b></li>
 </ul>
 
